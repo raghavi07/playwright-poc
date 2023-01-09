@@ -12,6 +12,8 @@ Once you have Node.js and npm installed, navigate to the root directory of your 
 - Installing:
 Run the below code to install all of the dependencies listed in your package.json file.
 `npm install`
+Installing Playwright Test
+`npm i -D @playwright/test`
 Once the dependencies have been installed, you should be able to run your project locally.
 
 - Running the tests:
